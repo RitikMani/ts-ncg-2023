@@ -1,0 +1,4 @@
+-- SQL script to initialize H2 database with some initial data
+-- For example:
+-- INSERT INTO view (name, chartType, country, indicator, startDate, endDate) VALUES ('View 1', 'column', 'IN', '1.0.HCount.1.90usd', '2023-07-01', '2023-07-31');
+-- INSERT INTO view (name, chartType, country, indicator, startDate, endDate) VALUES ('View 2', 'bar', 'US', '1.0.HCount.1.90usd', '2023-08-01', '2023-08-31');
